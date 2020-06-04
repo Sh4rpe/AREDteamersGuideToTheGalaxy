@@ -1,3 +1,4 @@
+# Copy Paste Hokeys
 1. Install the following:
     apt-get install xclip xdotool
 
